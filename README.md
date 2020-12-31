@@ -10,7 +10,7 @@ First you will have to run ArpSpoofer.py on your terminal.
   
   Open terminal where you downloaded this tool and type:
   
-  >_*python3 ArpSpoofer.py -t x.x.x.x -g y.y.y.y*_
+  >_*python3 ArpSpoofer.py --target x.x.x.x --gateway y.y.y.y*_
   
   Check **_python3 ArpSpoofer.py --help_** for more details.
   
