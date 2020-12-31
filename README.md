@@ -20,3 +20,4 @@ Now open a new terminal and don't close the previous terminal where your Arp Spo
   
   >_*python3 PacketSniffer.py*_
  
+Now just sit there and wait till target to open browser.
