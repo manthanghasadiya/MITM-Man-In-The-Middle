@@ -10,7 +10,7 @@ First you will have to run ArpSpoofer.py on your terminal.
   
   Open terminal where you downloaded this tool and type:
   
-    >_*python3 ArpSpoofer.py -t x.x.x.x -g y.y.y.y*_
+  >_*python3 ArpSpoofer.py -t x.x.x.x -g y.y.y.y*_
   
   Check **_python3 ArpSpoofer.py --help_** for more details.
   
@@ -18,5 +18,5 @@ Now open a new terminal and don't close the previous terminal where your Arp Spo
 
   Open new terminal where you downloaded PacketSniffer.py and type:
   
-    >_*python3 PacketSniffer.py*_
+  >_*python3 PacketSniffer.py*_
  
